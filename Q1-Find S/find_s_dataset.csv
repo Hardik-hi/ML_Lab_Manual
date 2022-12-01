@@ -1,9 +1,10 @@
+Weather,Tempearture,Humidity,Wind,Smoke,Vis,Play
 Sunny,Warm,High,Strong,Warm,Same,Yes
 Sunny,Warm,High,Strong,Warm,Same,Yes
 Rainy,Cold,High,Strong,Warm,Change,No
 Sunny,Warm,High,Strong,Cool,Change,Yes
 Sunny,Warm,High,Strong,Cool,Same,Yes
 Rainy,Warm,High,Strong,Cool,Change,Yes
-Sunny,Cold,High,Cool,Change,Yes
-Sunny,Cold,High,,Cool,Same,Yes
+Sunny,Cold,High,Weak,Cool,Change,Yes
+Sunny,Cold,High,Weak,Cool,Same,Yes
 Rainy,Warm,High,Strong,Cool,Change,Yes
